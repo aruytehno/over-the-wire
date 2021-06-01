@@ -4,11 +4,14 @@ The wargames offered by the OverTheWire community can help you to learn and prac
 <details><summary>bandit0</summary>
 <p>
   
-  ```shell
-  ssh bandit0@bandit.labs.overthewire.org -p 2220 bandit0
-  ```
+```shell
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+```
+```shell
+bandit0
+```
   
-  ```shell  
+```shell  
 bandit0@bandit:~$ cat readme 
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ```
@@ -20,9 +23,12 @@ boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
   
 ```shell
-ssh bandit1@bandit.labs.overthewire.org -p 2220 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+ssh bandit1@bandit.labs.overthewire.org -p 2220 
 ``` 
-
+```shell
+boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+```
+  
 ```shell
 bandit1@bandit:~$ cat readme 
 ```
