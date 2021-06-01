@@ -10,8 +10,8 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```shell
 bandit0
 ```
-  
-```shell  
+ 
+```console  
 bandit0@bandit:~$ cat readme 
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ```
@@ -29,7 +29,7 @@ ssh bandit1@bandit.labs.overthewire.org -p 2220
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ```
   
-```shell
+```console
 bandit1@bandit:~$ cat readme 
 ```
   
