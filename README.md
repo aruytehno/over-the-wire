@@ -1,7 +1,7 @@
 # overthewire
 The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
-
-<details><summary>bandit0</summary>
+### Bandit
+<details><summary>Level 0</summary>
 <p>
   
 ```shell
@@ -18,7 +18,7 @@ boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 </p>
 </details>
 
-<details><summary>bandit1</summary>
+<details><summary>Level 0 → Level 1</summary>
 <p>
 
   
