@@ -1,8 +1,8 @@
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)  
 [OverTheWireOrg on GitHub](https://github.com/OverTheWireOrg)
-# [OverTheWire](https://overthewire.org/)
+# OverTheWire
 
-### [Bandit](https://overthewire.org/wargames/bandit/)
+### Bandit
 <details><summary>Level 0</summary>
 <p>
   
