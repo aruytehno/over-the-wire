@@ -1,5 +1,4 @@
 # OverTheWire
-
 ## Bandit
 <details><summary>Level 0</summary>
 <p>
