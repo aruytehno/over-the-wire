@@ -12,8 +12,12 @@ bandit0
  
 ```console  
 bandit0@bandit:~$ cat readme 
+```
+  
+  ```console  
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ```
+  
 </p>
 </details>
 
