@@ -1,3 +1,4 @@
+![alt text](img/workplace.png "We're hackers, and we are good-looking. We are the 1%")
 # OverTheWire
 ## Bandit
 <details><summary>Level 0</summary>
