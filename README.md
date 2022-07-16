@@ -5,11 +5,17 @@
 Links: [OverTheWire](https://overthewire.org/) ([OTW on GitHub](https://github.com/OverTheWireOrg))  
 Music: [#JimTV](https://www.youtube.com/c/JimTVmusic) [#RodMighty](https://www.youtube.com/playlist?list=PLNdvSYe4eaR6O1ObuzZaTBDGYeRg083uf) 
 ### [0 Bandit](https://overthewire.org/wargames/bandit/)
+
+```shell
+sudo apt-get install sshpass
+sshpass -p your_password ssh user@hostname
+```
+
 <details><summary>Level 0</summary>
 <p>
   
 ```shell
-ssh bandit0@bandit.labs.overthewire.org -p 2220
+sshpass -p bandit0 ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
 ```shell
 bandit0
