@@ -1,9 +1,8 @@
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)  
 ![alt text](img/workplace.png "We're hackers, and we are good-looking. We are the 1%")
-# OverTheWire
 
-Links: [OverTheWire](https://overthewire.org/) ([OTW on GitHub](https://github.com/OverTheWireOrg))  
-Music: [#JimTV](https://www.youtube.com/c/JimTVmusic) [#RodMighty](https://www.youtube.com/playlist?list=PLNdvSYe4eaR6O1ObuzZaTBDGYeRg083uf) 
+# OverTheWire
+[overthewire.org](https://overthewire.org/)  
+[Music](https://www.youtube.com/watch?v=72LUL1hhXdc)
 ### [0 Bandit](https://overthewire.org/wargames/bandit/)
 
 ```shell
