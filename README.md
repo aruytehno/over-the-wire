@@ -86,4 +86,18 @@ sort data.txt | uniq -u
 
 ```shell
 sshpass -p EN632PlfYiZbn3PhVK3XOGSlNInNE00t ssh bandit9@bandit.labs.overthewire.org -p 2220
+# todo
+```
+
+[Level 11](https://overthewire.org/wargames/bandit/bandit11.html)
+
+```shell
+sshpass -p G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s ssh bandit10@bandit.labs.overthewire.org -p 2220
+base64 --decode data.txt 
+```
+
+[Level 12](https://overthewire.org/wargames/bandit/bandit12.html)
+
+```shell
+sshpass -p 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM ssh bandit11@bandit.labs.overthewire.org -p 2220
 ```
