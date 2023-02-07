@@ -36,3 +36,40 @@ cat ./-
 sshpass -p rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi ssh bandit2@bandit.labs.overthewire.org -p 2220
 cat "spaces in this filename"
 ```
+
+[Level 4](https://overthewire.org/wargames/bandit/bandit4.html)
+
+```shell
+sshpass -p aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG ssh bandit3@bandit.labs.overthewire.org -p 2220
+cat inhere/.hidden
+```
+
+[Level 5](https://overthewire.org/wargames/bandit/bandit5.html)
+
+```shell
+sshpass -p 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe ssh bandit4@bandit.labs.overthewire.org -p 2220
+find -maxdepth 2 -type f ! -name "*.*" -exec grep -lvIP '[^[:ascii:]]' {} +
+#./inhere/-file09
+#./inhere/-file07 <<<
+cat ./inhere/-file07
+```
+
+[Level 6](https://overthewire.org/wargames/bandit/bandit6.html)
+
+```shell
+sshpass -p lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR ssh bandit5@bandit.labs.overthewire.org -p 2220
+find . -type f -size 1033c -exec cat {} +
+```
+
+[Level 7](https://overthewire.org/wargames/bandit/bandit7.html)
+
+```shell
+sshpass -p P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU ssh bandit6@bandit.labs.overthewire.org -p 2220
+find / -size 33c -user bandit7 -group bandit6 -exec cat {} +
+```
+
+[Level 8](https://overthewire.org/wargames/bandit/bandit8.html)
+
+```shell
+sshpass -p z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S ssh bandit7@bandit.labs.overthewire.org -p 2220
+```
