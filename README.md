@@ -72,4 +72,18 @@ find / -size 33c -user bandit7 -group bandit6 -exec cat {} +
 
 ```shell
 sshpass -p z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S ssh bandit7@bandit.labs.overthewire.org -p 2220
+grep -n "millionth" data.txt
+```
+
+[Level 9](https://overthewire.org/wargames/bandit/bandit9.html)
+
+```shell
+sshpass -p TESKZC0XvTetK0S9xNwm25STk5iWrBvP ssh bandit8@bandit.labs.overthewire.org -p 2220
+sort data.txt | uniq -u
+```
+
+[Level 10](https://overthewire.org/wargames/bandit/bandit10.html)
+
+```shell
+sshpass -p EN632PlfYiZbn3PhVK3XOGSlNInNE00t ssh bandit9@bandit.labs.overthewire.org -p 2220
 ```
